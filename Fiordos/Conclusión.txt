@@ -1,0 +1,11 @@
+En este proyecto pusimos en práctica el uso de diferentes tipos de párrafos 
+mediante la etiqueta <h#></h#>. En mi caso las utilicé en el título de cada
+página, en los títulos de cada imágen y en el hipervínculo de "Regresar" al
+final de cada página.
+
+La implementación de imágenes se hizo mediante rutas relativas, descargando
+las imágenes en una carpeta ubicada dentro del mismo proyecto y utilizando
+el comando "./" para que busque la imágen justamente en el mismo proyecto.
+
+Los hipervínculos se aplicaron mediante la etiqueta <a href=""></a> para
+navegar entre las páginas de "Invitación", "Pueblos", "Destinos" y "Comida".
